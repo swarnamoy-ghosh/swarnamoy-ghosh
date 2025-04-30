@@ -2,7 +2,7 @@
 
 🎓 MSc (Tech) Student in Statistics and Data Science  
 💡 Passionate about Machine Learning, Deep Learning, and Data Analysis 
-🔬 Currently working on Sonic layer depth prediction using Argo data  
+🔬 Currently working on Sonic layer depth prediction using Argo data in the Bay of Bengal region 
 🌱 Exploring AI in healthcare, finance and more
 🧠 Open to research collaboration, internships, and tech-driven problem solving
 
