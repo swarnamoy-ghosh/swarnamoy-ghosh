@@ -19,7 +19,7 @@
 ### 📫 Contact Me
 - ✉️ Email: swarnamoyghosh08@gmail.com 
 - 🌐 Portfolio: *Coming soon!*  
-- 💼 LinkedIn: [linkedin.com/in/[swarnamoy-ghosh](#)  
+- 💼 LinkedIn: [linkedin.com/in/swarnamoy-ghosh](#)  
 
 ---
 
