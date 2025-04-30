@@ -3,7 +3,7 @@
 🎓 MSc (Tech) Student in Statistics and Data Science  
 💡 Passionate about Machine Learning, Deep Learning, and Applied Research  
 🔬 Currently working on cancer classification using medical image data  
-🌱 Exploring AI in healthcare, IoT for smart agriculture, and cybersecurity applications  
+🌱 Exploring AI in healthcare, finance and more
 🧠 Open to research collaboration, internships, and tech-driven problem solving
 
 ---
@@ -19,7 +19,7 @@
 ### 📫 Contact Me
 - ✉️ Email: swarnamoyghosh08@gmail.com 
 - 🌐 Portfolio: *Coming soon!*  
-- 💼 LinkedIn: [linkedin.com/in/swarnamoy-ghosh](#)  
+- 💼 LinkedIn: [www.linkedin.com/in/swarnamoy-ghosh](#)  
 
 ---
 
