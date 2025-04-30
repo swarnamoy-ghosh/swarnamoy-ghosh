@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Swarnamoy Ghosh
 
 🎓 MSc (Tech) Student in Statistics and Data Science  
-💡 Passionate about Machine Learning, Deep Learning, and Applied Research  
-🔬 Currently working on cancer classification using medical image data  
+💡 Passionate about Machine Learning, Deep Learning, and Data Analysis 
+🔬 Currently working on Sonic layer depth prediction using Argo data  
 🌱 Exploring AI in healthcare, finance and more
 🧠 Open to research collaboration, internships, and tech-driven problem solving
 
@@ -10,7 +10,8 @@
 
 ### 🔧 Tools & Technologies
 - Python, R, SQL, MATLAB
-- TensorFlow, Keras, Scikit-learn, OpenCV
+- TensorFlow, Keras, Scikit-learn
+- Excel, PowerBI
 - Jupyter, Google Colab, VSCode
 - Git, GitHub, Docker (basic)
 
